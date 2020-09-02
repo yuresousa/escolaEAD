@@ -1,0 +1,6 @@
+menu aluno = graffico com progresso.
+agenda mento de aula .
+adcionar exercicios.
+janelona de instrucao para fzr os comandos.
+so faz prova mediante a senha.
+escolher onde eu quero ir , depois pedir senha
